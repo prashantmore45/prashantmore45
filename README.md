@@ -50,7 +50,7 @@ I love exploring new technologies. Here is my current technical arsenal:
 
 #### 🤖 [AI Chatbot](https://github.com/prashantmore45/ai-chatbot)
 > An intelligent conversational assistant using OpenAI/Gemini APIs.
-- **Tech:** React/Next.js, Node.js/Python, OpenAI API.
+- **Tech:** HTML/CSS JavaScript NodeJS/ExpressJS Google Gemini API
 - **Features:** Natural Language Processing, Real-time responses, Context awareness.
 - **Status:** 🚧 *In Progress*
 
