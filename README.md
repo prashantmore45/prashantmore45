@@ -75,5 +75,5 @@ I love exploring new technologies. Here is my current technical arsenal:
 
 <p align="center">
   <b>Thanks for visiting! Let's connect and build something amazing together. 🚀</b><br>
-  <a href="mailto:prashantmorepm05@gmail.com">📩 Email Me</a> • <a href="https://prashantmore45.github.io/prashant-portfolio-v2/">🌐 View Portfolio</a>
+  <a href="mailto:prashantmorepm05@gmail.com">📩 Email Me</a> • <a href="https://prashant-portfolio-pro.vercel.app/">🌐 View Portfolio</a>
 </p>
