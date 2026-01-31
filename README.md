@@ -52,7 +52,7 @@ I love exploring new technologies. Here is my current technical arsenal:
 > An intelligent conversational assistant using OpenAI/Gemini APIs.
 - **Tech:** HTML/CSS JavaScript NodeJS/ExpressJS Google Gemini API
 - **Features:** Natural Language Processing, Real-time responses, Context awareness.
-- **Status:** 🚧 *In Progress*
+- **Status:** 🚧 *Completed*
 
 ---
 
