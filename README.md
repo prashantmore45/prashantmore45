@@ -25,10 +25,10 @@
 
 I am a **Computer Engineering Student** passionate about solving real-world problems through code. Currently, I am focused on mastering **Full-Stack Web Development** and strengthening my grasp on **Data Structures & Algorithms**.
 
-- 🔭 **Current Project:** Developing an intelligent **[AI Chatbot](https://github.com/prashantmore45/ai-chatbot)** powered by LLMs.
-- 🌱 **Current Learning:** Deep diving into **Next.js**, **TypeScript**, and System Design.
-- 💻 **Core Competency:** Proficient in **C++** and **JavaScript** for logic building.
-- 💬 **Ask Me About:** Backend logic, API integration, and System Design basics.
+- 🔭 **Current Focus:** Building real-world projects with **TypeScript** to solidify my understanding and skills.
+- 📚 **Current Learning:** Completing my **Data Structures & Algorithms** journey with C++ and mastering System Design.
+- 💻 **Core Competency:** Proficient in **C++** and **JavaScript/TypeScript** for logic building.
+- 💬 **Ask Me About:** Backend logic, API integration, TypeScript, and System Design basics.
 - ⚡ **Fun Fact:** 🌙 I write my best code after midnight—bugs fear the dark! 💡
 
 ---
@@ -46,13 +46,33 @@ I love exploring new technologies. Here is my current technical arsenal:
 
 ---
 
-### 🔥 What I'm Currently Building
+### 🔥 Featured Projects
 
 #### 🤖 [AI Chatbot](https://github.com/prashantmore45/ai-chatbot)
-> An intelligent conversational assistant using OpenAI/Gemini APIs.
-- **Tech:** HTML/CSS JavaScript NodeJS/ExpressJS Google Gemini API
-- **Features:** Natural Language Processing, Real-time responses, Context awareness.
-- **Status:** 🚧 *Completed*
+> An intelligent conversational assistant using Google Gemini API.
+- **Tech:** HTML/CSS, JavaScript, Node.js/Express.js, Google Gemini API
+- **Features:** Natural Language Processing, Real-time responses, Context awareness
+- **Status:** ✅ *Completed*
+
+#### 🎨 [AI Image Generator](https://github.com/prashantmore45/AI-Image-Generator)
+> A web application for generating AI images from text prompts.
+- **Tech:** HTML, CSS, JavaScript, AI Image Generation API
+- **Features:** Text-to-image generation, Clean UI, Real-time processing
+- **Status:** ✅ *Completed* | [Live Demo](https://ai-image-generator-tan-five.vercel.app)
+
+#### 📡 [RTSP Livestream Overlay](https://github.com/prashantmore45/rtsp-livestream-overlay)
+> A full-stack application for managing RTSP livestreams with overlay functionality.
+- **Tech:** React, Flask (Python), MongoDB
+- **Features:** Real-time streaming, Overlay management, Database integration
+- **Status:** 🚧 *In Progress*
+
+---
+
+### 📚 Learning Repositories
+
+- **[DSA Tutorial](https://github.com/prashantmore45/DSA---Tutorial)** - Complete Data Structures & Algorithms journey in C++
+- **[Node.js Tutorial](https://github.com/prashantmore45/Node.js-Tutorial)** - Core Node.js concepts with hands-on examples
+- **[Express.js Tutorial](https://github.com/prashantmore45/Express.js---Tutorial)** - Comprehensive Express.js learning path
 
 ---
 
