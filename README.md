@@ -25,11 +25,19 @@
 
 I am a **Computer Engineering Student** passionate about solving real-world problems through code. Currently, I am focused on mastering **Full-Stack Web Development** and strengthening my grasp on **Data Structures & Algorithms**.
 
-- 🔭 **Current Focus:** Building real-world projects with **TypeScript** to solidify my understanding and skills.
-- 📚 **Current Learning:** Completing my **Data Structures & Algorithms** journey with C++ and mastering System Design.
+- 🔭 **Current Focus:** Building real-world projects with **MERN Stack** and **TypeScript**.
+- 💼 **Experience:** Recently completed a Web Development Internship at **CodSoft**.
+- 📚 **Current Learning:** Mastering System Design and Advanced DSA in C++.
 - 💻 **Core Competency:** Proficient in **C++** and **JavaScript/TypeScript** for logic building.
-- 💬 **Ask Me About:** Backend logic, API integration, TypeScript, and System Design basics.
 - ⚡ **Fun Fact:** 🌙 I write my best code after midnight—bugs fear the dark! 💡
+
+---
+
+### 💼 Internship Experience
+
+**Web Development Intern | CodSoft** *Jan 2026 - Feb 2026* - Successfully completed a 4-week intensive internship focusing on full-stack development.
+- Built and deployed scalable web applications including a **Job Board** and **Online Quiz Maker**.
+- 📜 **Status:** [Certified]
 
 ---
 
@@ -48,23 +56,29 @@ I love exploring new technologies. Here is my current technical arsenal:
 
 ### 🔥 Featured Projects
 
+#### 💼 [Job Board (MERN Stack)](https://github.com/prashantmore45/Job-Board)
+> A full-stack job listing platform connecting employers and candidates.
+- **Tech:** MongoDB, Express.js, React.js, Node.js
+- **Features:** User Authentication, Job Posting/Filtering, Responsive UI
+- **Status:** ✅ *Completed (CodSoft Internship)* | [Live Demo](https://job-board-seven-beige.vercel.app/)
+
+#### 📝 [Online Quiz Maker](https://github.com/prashantmore45/Online-Quiz-Maker)
+> An interactive quiz engine with dynamic scoring and logic.
+- **Tech:** HTML, CSS, JavaScript
+- **Features:** Timed quizzes, Score calculation, Dynamic question rendering
+- **Status:** ✅ *Completed (CodSoft Internship)*
+
 #### 🤖 [AI Chatbot](https://github.com/prashantmore45/ai-chatbot)
 > An intelligent conversational assistant using Google Gemini API.
-- **Tech:** HTML/CSS, JavaScript, Node.js/Express.js, Google Gemini API
-- **Features:** Natural Language Processing, Real-time responses, Context awareness
-- **Status:** ✅ *Completed*
+- **Tech:** Node.js, Express.js, Google Gemini API
+- **Features:** Natural Language Processing, Real-time responses
+- **Status:** ✅ *Completed* | [Live Demo](https://ai-chatbot-frontend-u8e6.onrender.com/)
 
 #### 🎨 [AI Image Generator](https://github.com/prashantmore45/AI-Image-Generator)
 > A web application for generating AI images from text prompts.
-- **Tech:** HTML, CSS, JavaScript, AI Image Generation API
-- **Features:** Text-to-image generation, Clean UI, Real-time processing
+- **Tech:** HTML, CSS, JavaScript, AI API
+- **Features:** Text-to-image generation, Clean UI
 - **Status:** ✅ *Completed* | [Live Demo](https://ai-image-generator-tan-five.vercel.app)
-
-#### 📡 [RTSP Livestream Overlay](https://github.com/prashantmore45/rtsp-livestream-overlay)
-> A full-stack application for managing RTSP livestreams with overlay functionality.
-- **Tech:** React, Flask (Python), MongoDB
-- **Features:** Real-time streaming, Overlay management, Database integration
-- **Status:** 🚧 *In Progress*
 
 ---
 
@@ -73,6 +87,7 @@ I love exploring new technologies. Here is my current technical arsenal:
 - **[DSA Tutorial](https://github.com/prashantmore45/DSA---Tutorial)** - Complete Data Structures & Algorithms journey in C++
 - **[Node.js Tutorial](https://github.com/prashantmore45/Node.js-Tutorial)** - Core Node.js concepts with hands-on examples
 - **[Express.js Tutorial](https://github.com/prashantmore45/Express.js---Tutorial)** - Comprehensive Express.js learning path
+- **[Typescript-zero-to-advanced-Tutorial](https://github.com/prashantmore45/Typescript-zero-to-advanced-Tutorial)** - A comprehensive, hands-on TypeScript tutorial repository that takes you from complete beginner to advanced level.
 
 ---
 
