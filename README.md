@@ -23,18 +23,24 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Engineering Student** passionate about building useful software and exploring intelligent developer tools. My work spans full-stack web development, secure backend systems, data-driven applications, and applied machine learning.
+I am a **Computer Engineering Student** passionate about building useful software and exploring intelligent developer tools. My work spans full-stack web development, secure backend systems, data-driven applications, and applied AI research.
 
 - 🔭 **Current Focus:** Building production-style applications with **React, Node.js, Express, MongoDB, Supabase, and TypeScript**.
 - 🤖 **AI/ML Focus:** Exploring **CodeBERT, Hugging Face Transformers, Python, PyTorch, and explainable defect prediction**.
-- 💼 **Experience:** Completed a Web Development Internship at **CodSoft** from **January 2026 to February 2026**.
+- 💼 **Experience:** Worked as an **AI Research Intern at Ambiguity Labs** from **June 2026 to August 2026**, following a Web Development Internship at **CodSoft**.
 - 📚 **Current Learning:** Advanced DSA in C++, system design, Python/Django, and machine learning workflows.
-- 💻 **Core Competency:** C++, JavaScript, TypeScript, Python, REST APIs, authentication, databases, and responsive UI development.
+- 💻 **Core Competency:** C++, JavaScript, TypeScript, Python, REST APIs, authentication, databases, Docker, Linux, and responsive UI development.
 - ⚡ **Fun Fact:** 🌙 I write my best code after midnight—bugs fear the dark! 💡
 
 ---
 
 ### 💼 Internship Experience
+
+**AI Research Intern | Ambiguity Labs** *June 2026 - August 2026* - Contributed to AI and software engineering research across multiple technologies and technical domains.
+- Developed, evaluated, and validated programming tasks while implementing and debugging solutions.
+- Evaluated correctness, software quality, reproducibility, and engineering best practices.
+- **Technologies:** Python, Git, Docker, Linux, REST APIs, AI Engineering, and Software Engineering.
+- 📜 **Status:** Completed
 
 **Web Development Intern | CodSoft** *January 2026 - February 2026* - Completed a 4-week intensive internship focused on practical web development.
 - Built and deployed a **Job Board** and an **Online Quiz Platform**.
@@ -50,15 +56,21 @@ I enjoy working across the full development lifecycle:
 | **Category** | **Technologies** |
 | :--- | :--- |
 | **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **AI/Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white) |
+| **AI/Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **Databases & Auth** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| **Tools & Deployment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) |
+| **Tools & Deployment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
 
 ---
 
 ### 🔥 Featured Projects
+
+#### 🤖 [Transformer Defect Prediction](https://github.com/prashantmore45/transformer-defect-prediction)
+> An AI-powered research project for multiclass software defect prediction using transformer-based code models.
+- **Tech:** Python, CodeBERT, Hugging Face Transformers, PyTorch, FastAPI, Streamlit
+- **Focus:** Code analysis, defect-label engineering, explainability, and leakage-safe machine learning pipelines
+- **Status:** 🚧 *In development* | BE Final Year Project
 
 #### 🏠 [RentFlow](https://github.com/prashantmore45/RentFlow)
 > A full-stack room rental management platform for tenants and landlords.
@@ -77,12 +89,6 @@ I enjoy working across the full development lifecycle:
 - **Tech:** React, Node.js, Express.js, MongoDB Atlas, JWT, Nodemailer, Multer
 - **Features:** Job CRUD, candidate search, resume uploads, applicant tracking, email notifications, and application history
 - **Status:** ✅ *Completed and deployed* | [Live Demo](https://job-board-seven-beige.vercel.app/)
-
-#### 🤖 [Transformer Defect Prediction](https://github.com/prashantmore45/transformer-defect-prediction)
-> An AI-powered research project for multiclass software defect prediction using transformer-based code models.
-- **Tech:** Python, CodeBERT, Hugging Face Transformers, PyTorch, FastAPI, Streamlit
-- **Focus:** Code analysis, defect-label engineering, explainability, and leakage-safe machine learning pipelines
-- **Status:** 🚧 *In development* | BE Final Year Project
 
 #### ✦ [Gemini AI Chatbot](https://github.com/prashantmore45/ai-chatbot)
 > A responsive conversational assistant inspired by the Gemini interface.
