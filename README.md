@@ -40,7 +40,7 @@ I am a **Computer Engineering Student** passionate about building useful softwar
 - Developed, evaluated, and validated programming tasks while implementing and debugging solutions.
 - Evaluated correctness, software quality, reproducibility, and engineering best practices.
 - **Technologies:** Python, Git, Docker, Linux, REST APIs, AI Engineering, and Software Engineering.
-- 📜 **Status:** Completed
+- 📜 **Status:** Completed and Certified
 
 **Web Development Intern | CodSoft** *January 2026 - February 2026* - Completed a 4-week intensive internship focused on practical web development.
 - Built and deployed a **Job Board** and an **Online Quiz Platform**.
